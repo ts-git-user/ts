@@ -152,10 +152,3 @@ table:
       index_type: DONT_INDEX
     db_column_properties:
       data_type: DATE
-  - name: CREATED_AT_TIME
-    db_column_name: CREATED_AT_TIME
-    properties:
-      column_type: ATTRIBUTE
-      index_type: DONT_INDEX
-    db_column_properties:
-      data_type: TIME
