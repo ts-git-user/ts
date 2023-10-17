@@ -39,11 +39,11 @@ liveboard:
       display_mode: CHART_MODE
     viz_guid: 14a02086-222d-4422-ad74-1cc6b7680c4a
     action_object_associations:
-    - action_name: Local action 2
-      context: CONTEXT_MENU
-      enabled: true
     - action_name: Local action 1
       context: MENU
+      enabled: true
+    - action_name: Local action 2
+      context: CONTEXT_MENU
       enabled: true
   - id: Viz_2
     answer:
@@ -306,4 +306,6 @@ liveboard:
     - name: Tab 2
       description: ""
     - name: Tab 3
+      description: ""
+    - name: Tab 4
       description: ""
