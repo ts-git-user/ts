@@ -5,7 +5,7 @@ table:
   schema: HUBSPOT
   db_table: HUBSPOT_DEALS
   connection:
-    name: Snowflake Development
+    name: Snowflake Production
     fqn: 2bc200fb-5eb7-49af-9409-99f43c69d5bf
   columns:
   - name: ID
